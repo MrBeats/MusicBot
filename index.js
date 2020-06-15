@@ -1,5 +1,5 @@
 // Imports
-import { log } from './logging.js';
+//import { log } from './logging.js';
 
 const Discord = require("discord.js");
 const { prefix, token } = require("./config.json");
